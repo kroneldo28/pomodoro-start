@@ -59,6 +59,7 @@ def countdown(count):
                 check_text += "✓"
             check_label.config(text=check_text)
 
+
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
 window.title("Pomodoro")
